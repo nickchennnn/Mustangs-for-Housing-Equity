@@ -1,33 +1,67 @@
-# Mustangs for Housing Equity
-Mustangs for Housing Equity created an app in which users are able to discover the rental housing market in the Metro Vancouver Regional District. 
+﻿# ECCE App Challenge 2025
 
-# Team Mission Statement
+## Team Name: Mustangs for Housing Equity
 
-Our team aims to create accessible and digestible content for the general public in order to be able to understand and even reproduce GIS products. We therefore exclusively used open-source data so that all of our sources could be verified or applied by viewers without requesting permission from data owners. Despite the complexity of the analysis techniques that we used, we ensured that the completed product was available as a dashboard with toggles and explanations for each layer and function of the map. 
+### Team Members
 
-The general public can become informed of issues on housing affordability. By using our app, they are able to navigate which neighborhoods may be sustainably affordable based on their income. Governments and NGOs may also navigate through the vacancy rates in the Metro Vancouver Regional District area to identify where housing development may be required. Ultimately, by having open-source data and making an accessible final app, our team will be actively supporting awareness and understanding of the Vancouver housing market, and broadly GIS products.
+- **Samantha Sharp**  
+  *Hi, I’m Samantha Sharp! I’m a third-year student at the University of Western Ontario in the Geographic Information Science (GIS) program currently working towards my Honours Specialization. My studies are reflective of my interest in practical data applications that can be used to enhance the knowledge base of the general public. I aim to use open-source data to produce accessible outputs that inform individuals on social, economic, and political issues that impact their lived environments!*
 
-## Appealing Characteristics
+- **Nicholas Chen**  
+  *Hi, I'm Nicholas Chen! I'm currently working towards a BA in Geography and Environment, specializing in Commercial Aviation Management. I'm also completing a certificate in Geographic Information Systems (GIS). My studies reflect my passion for understanding how spatial analysis and aviation intersect, and I'm excited about using GIS to solve real-world challenges. Whether it's mapping complex systems or exploring innovative solutions in transportation and environment, I'm driven to combine technology and geography to make a meaningful impact.*
 
-### Interactive Dashboard
-The app features an intuitive, interactive dashboard that allows users to easily toggle between different layers and data points. Whether exploring housing affordability, vacancy rates, or income comparisons, users can seamlessly navigate through the data with clear instructions and explanations. This makes it easy for anyone, regardless of GIS knowledge, to understand complex data.
+- **Angelica Simone**  
+  *Hi, I'm Angelica Simone! I am a third-year student at the University of Western Ontario double majoring in Geographic Information Science (GIS) and Psychology. My studies reflect my passion for understanding spatial patterns and human behavior, and I’m especially interested in how data-driven insights can improve decision-making in social and environmental contexts. I aim to analyze spatial trends or explore cognitive influences on perception, and I enjoy combining technology and psychology to tackle real-world challenges in innovative ways.*
 
-### User-Friendly Interface
-The design is clean, simple, and visually appealing. The interface is easy to navigate, with clear buttons, labels, and tooltips that guide the user throughout the app. This ensures that anyone can interact with the map without feeling overwhelmed by complex data points or technical jargon.
+## Team Mission Statement
 
-### Open Source Data
-By exclusively using open-source data, our app ensures that all information is transparent, verifiable, and accessible to anyone. This promotes trust and allows users to explore and even replicate the analysis themselves, which is key to fostering greater understanding and engagement.
+Our team aims to create accessible and digestible content for the general public to better understand and reproduce GIS products. We exclusively use open-source data to ensure transparency, verifiability, and applicability without restrictions from data owners. Despite the complexity of the analysis techniques used, our final product is an interactive dashboard with toggles and explanations for each map layer and function. 
 
-### Customizable Features
-The app allows users to tailor the analysis to their personal circumstances. For example, users can input their income level and see which neighborhoods are within their affordable range, helping them make more informed decisions about where they may want to live.
+Through our app, users can:
+- Explore **housing affordability** across Metro Vancouver based on income levels.
+- Identify **vacancy rates** to understand housing availability.
+- Assist **governments and NGOs** in pinpointing areas that may require housing development.
 
-### Clear Explanations and Context
-Each map layer and data point comes with detailed explanations, ensuring that users understand not just the data, but also how it was collected and what it represents. This educational aspect makes the app an invaluable tool for anyone seeking to learn about housing affordability in Vancouver.
+By leveraging open-source data and ensuring accessibility, we actively support public awareness and understanding of the Vancouver housing market and GIS applications in general.
 
-### Focus on Housing Equity
-The app addresses a pressing social issue—housing affordability—by giving users insight into which areas of Metro Vancouver Regional District may be more sustainable for living based on their income. It also provides valuable information to policymakers and NGOs, helping them identify areas where development or intervention is needed to ensure equitable housing opportunities.
+## Features
 
-### Engagement and Awareness
-The app actively supports awareness and understanding of the housing market by providing an easy-to-use tool that anyone can access, from community members to organizations working in the housing sector. The ability to visualize data and explore possible solutions empowers users to make informed decisions and advocate for necessary change.
+### 📊 Interactive Dashboard
+- Intuitive and user-friendly.
+- Toggle between different layers (housing affordability, vacancy rates, income levels, etc.).
+- Clear explanations to aid non-GIS users in data interpretation.
 
-By focusing on accessibility, transparency, and ease of use, our app stands out as a valuable resource that makes complex GIS data approachable and useful for a wide range of users. Whether you're an individual trying to find affordable housing or a policymaker looking for data-driven insights, our app makes it possible to understand the nuances of the Vancouver housing market and make informed decisions based on reliable, open-source data.
+### 🎨 User-Friendly Interface
+- Clean and simple design.
+- Easy-to-navigate layout with labeled buttons, tooltips, and interactive elements.
+- No prior GIS knowledge required to explore the data.
+
+### 📂 Open-Source Data
+- Ensures transparency and replicability.
+- Users can verify the sources or apply similar analyses independently.
+
+### 🔧 Customizable Features
+- Users can input their income level to determine affordable neighborhoods.
+- Provides insights for informed housing decisions.
+
+### 📖 Clear Explanations and Context
+- Each map layer and dataset is accompanied by detailed descriptions.
+- Educates users on data sources, methodologies, and implications.
+
+### 🏠 Focus on Housing Equity
+- Addresses Vancouver's **housing affordability crisis**.
+- Helps users identify neighborhoods that align with their financial situation.
+- Provides valuable insights for policymakers and NGOs to guide housing development.
+
+### 🌍 Engagement and Awareness
+- Encourages public engagement in housing issues.
+- Equips users with data visualization tools to support advocacy and informed decision-making.
+
+## Project Links
+
+- **App Dashboard:** [View Here](https://www.arcgis.com/apps/dashboards/ca07db1060dd4b2194d91109e3c41840)
+- **Story Map:** [Explore Here](https://arcg.is/X5fmP1)
+
+---
+
+📢 *For any questions or collaboration opportunities, feel free to reach out to our team!* 🚀
